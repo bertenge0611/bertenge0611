@@ -1,16 +1,16 @@
-## Hi there 👋
+# 안녕하세요, 임베디드 소프트웨어 개발자 김명세입니다. 👋
 
-<!--
-**bertenge0611/bertenge0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+제어계측공학을 전공하며 제어 이론과 MCU, 로보틱스를 학습하고,  
+설계한 제어기를 MCU 기반의 폐루프 시스템에 적용하여 실제 시스템의 동작을 제어하는 경험을 쌓았습니다.
 
-Here are some ideas to get you started:
+이후 대한상공회의소 서울기술교육센터의 **AI 시스템반도체 SW 개발자 과정**에 참여하여  
+STM32, FreeRTOS 및 Embedded Linux 기반 프로젝트를 수행했습니다. 이를 통해 제한된 메모리와 처리 자원을 효율적으로 활용하고, 하드웨어와 소프트웨어의 동작 관계를 고려하여 시스템을 안정적으로 설계하는 역량을 길렀습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+이러한 경험을 바탕으로 사용자가 신뢰할 수 있는 안정적인 임베디드 시스템을 개발하는 엔지니어로 성장하고자 합니다.
+
+## About Me
+
+- 🎓 공주대학교 전기전자제어공학부 제어계측공학전공 졸업 (2026.02)
+- 💻 희망 직무: Embedded Software / Firmware Engineer
+- 🔧 관심 분야: MCU Firmware / Embedded Linux / Robotics
+- ⚙️ 주요 경험: STM32, FreeRTOS, AVR, Device Driver 및 BSP, 모터 제어 및 임베디드 통신
