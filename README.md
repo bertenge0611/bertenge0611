@@ -37,6 +37,8 @@ STM32, FreeRTOS 및 Embedded Linux 기반 프로젝트를 수행했습니다. �
   <img src="https://img.shields.io/badge/RS--485-005A9C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/CAN-003B57?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/UART-4B5563?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/I2C-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPI-9333EA?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootloader-8B5CF6?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -60,6 +62,7 @@ STM32, FreeRTOS 및 Embedded Linux 기반 프로젝트를 수행했습니다. �
 </p>
 
 </div>
+
 
 
 
