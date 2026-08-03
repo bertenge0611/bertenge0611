@@ -13,7 +13,7 @@ STM32, FreeRTOS 및 Embedded Linux 기반 프로젝트를 수행했습니다. �
 - 🎓 공주대학교 전기전자제어공학부 제어계측공학전공 졸업 (2026.02)
 - 💻 희망 직무: Embedded Software / Firmware Engineer
 - 🔧 관심 분야: MCU Firmware / Embedded Linux / Robotics
-- ⚙️ 주요 경험: STM32, FreeRTOS, AVR, Device Driver 및 BSP, 모터 제어 및 임베디드 통신
+- ⚙️ 주요 경험: STM32, FreeRTOS, AVR, Device Driver 및 BSP, 모터 제어 및 임베디드 통신, Robot Arm 이론
 
 ## 🧰 Tech Stack
 
